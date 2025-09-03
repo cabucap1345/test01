@@ -1,6 +1,3 @@
-//Cuc Cu
-//Cuc Cu
-
 // A conceptual example of a JavaScript file for authentication.
 // This code is for educational purposes only and is not secure for production use.
 

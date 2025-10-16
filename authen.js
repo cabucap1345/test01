@@ -1,4 +1,3 @@
-// This code is for educational purposes only and is not secure for production use.
 
 document.addEventListener('DOMContentLoaded', () => {
 

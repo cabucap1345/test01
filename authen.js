@@ -1,5 +1,4 @@
-///////
-//ok nhé
+//
 //abc
 document.addEventListener('DOMContentLoaded', () => {
 
